@@ -2,11 +2,12 @@
 
 built with JavaScript and JQuery
 
-Screenshots
+Screenshots![desktop image](https://user-images.githubusercontent.com/104015866/208765654-3d2d03b3-ae58-4af5-bf62-0fd8f2bbc246.png)
 
 
 
-Live website:
+
+Live website: https://marcus-00.github.io/simon-game/
 
 
 ## Game rules:
@@ -34,4 +35,3 @@ Live website:
 11. If you manage to repeat of sequences for skill levels 1, 2, 3,  or 4 and Simon will salute you with six short signals from the last lens you pressed.   
 
 
-# simon-game
